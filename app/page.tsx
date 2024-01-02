@@ -12,12 +12,12 @@ export default function Home() {
   return (
     <div>
       <div className="p-10 flex flex-col bg-[#2B2929] dark:bg-slate-800 text-white space-y-5">
-        <h1 className="text-3xl font-bold">Welcome to Dropbox. <br />
+        <h1 className="text-3xl font-bold">Welcome to SCloud. <br />
           <br />
           Storing Everthing for you and your business needs. All in one Place
         </h1>
         <p className="pb-10">
-          Enhance your personal space with Dropbox, offering a simple and
+          Enhance your personal space with SCloud, offering a simple and
           efficient way to upload, organize and access files from anywhere.
           Securely store important documents and media, and experience the
           convience of easy file management and sharing in one centeralized

@@ -17,7 +17,7 @@ function Header() {
                         className='invert'
                     />
                 </div>
-                <h1 className='font-bold text-xl'>DropBox</h1>
+                <h1 className='font-bold text-xl'>SCloud</h1>
             </Link>
             <div className='px-5 flex space-x-2 items-center'>
                 {/* THeme Toggler */}
